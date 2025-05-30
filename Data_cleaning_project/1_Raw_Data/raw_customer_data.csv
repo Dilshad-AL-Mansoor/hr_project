@@ -1,0 +1,11 @@
+CustomerID,Name,Email,Phone,Country,JoinDate,PurchaseAmount
+101,Alice ,alice@example.com,123-456-7890,USA,1/1/2021,100.5
+102,bob,bob@example,1234567890,usa,2/15/2021,200
+103,CHARLIE,charlie@example.com,,UK,5-Mar-21,$300 
+104,David,david@.com,123.456.7890,Canada,4/10/2021,400
+105,Eve,,N/A,India,2021.05.20,five hundred
+105,Eve,eve@example.com,987654321,India,5/20/2021,500
+,Frank,frank@example.com,123-456-7890,USA,6/1/2021,600
+107, Grace,grace@example.com,, UK,7/15/2021,700
+108,Henry,henry@example.com,999-999-9999,canada,,800
+109,,henry@example.com,999-999-9999,India,9/10/2021,800
